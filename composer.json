@@ -1,0 +1,22 @@
+{
+    "name": "phergie/phergie-irc-bot-react-development",
+    "description": "Development Dependencies for phergie-irc-bot-react",
+    "keywords": [ "irc", "bot", "react" ],
+    "license": "BSD-2-Clause",
+    "support": {
+        "email": "team@phergie.org",
+        "irc": "irc://irc.freenode.net/phergie",
+        "issues": "https://github.com/phergie/phergie-irc-bot-react-development/issues",
+        "source": "https://github.com/phergie/phergie-irc-bot-react-development"
+    },
+    "require": {
+        "phpunit/phpunit": "~4.6",
+        "phake/phake": "~2.0",
+        "codeclimate/php-test-reporter": "~0.1",
+        "satooshi/php-coveralls": "0.6.1",
+        "symfony/config": "~2.0",
+        "symfony/console": "~2.0",
+        "symfony/filesystem": "~2.0",
+        "symfony/stopwatch": "~2.0"
+    }
+}
