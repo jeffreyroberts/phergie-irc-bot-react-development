@@ -1,6 +1,6 @@
 {
     "abandoned": true,
-    "name": "phergie/phergie-irc-bot-react-development",
+    "name": "jeffreyroberts/phergie-irc-bot-react-development",
     "description": "Development Dependencies for phergie-irc-bot-react",
     "keywords": [ "irc", "bot", "react" ],
     "license": "BSD-2-Clause",
